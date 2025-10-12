@@ -1,0 +1,86 @@
+baseURL = 'https://kidult-stage.com/'
+languageCode = 'ko-kr'
+title = 'kidult-stage'
+theme = 'congo'
+
+enableRobotsTXT = true
+summaryLength = 30
+
+[pagination]
+  pagerSize = 10
+
+[params]
+  colorScheme = "auto"
+  defaultAppearance = "dark"
+  autoSwitchAppearance = true
+
+[params.homepage]
+  layout = "card"
+  homepageImage = ""
+  showRecent = true
+  showRecentItems = 10
+  cardView = true
+  cardViewScreenWidth = false
+
+[params.article]
+  showDate = true
+  showViews = false
+  showLikes = false
+  showDateUpdated = false
+  showAuthor = false
+  showHero = true
+  heroStyle = "basic"
+  layoutBackgroundBlur = true
+  showBreadcrumbs = true
+  showDraftLabel = true
+  showEdit = false
+  showSummary = true
+  showTableOfContents = true
+  showTaxonomies = true
+  showWordCount = true
+  showReadingTime = true
+  showComments = false
+
+[params.list]
+  showHero = false
+  showBreadcrumbs = true
+  showSummary = true
+  showTableOfContents = false
+  showCards = true
+  groupByYear = false
+  cardView = true
+
+[params.sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+
+[params.taxonomy]
+  showTermCount = true
+
+[params.fathomAnalytics]
+  site = ""
+
+[menu]
+  [[menu.main]]
+    name = "블로그"
+    pageRef = "posts"
+    weight = 10
+    
+  [[menu.main]]
+    name = "카테고리"
+    pageRef = "categories"
+    weight = 20
+    
+  [[menu.main]]
+    name = "태그"
+    pageRef = "tags"
+    weight = 30
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

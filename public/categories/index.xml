@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on kidult-stage</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on kidult-stage</description>
+    <generator>Hugo</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Sun, 12 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>마케팅</title>
+      <link>http://localhost:1313/categories/%EB%A7%88%EC%BC%80%ED%8C%85/</link>
+      <pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/%EB%A7%88%EC%BC%80%ED%8C%85/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>키덜트</title>
+      <link>http://localhost:1313/categories/%ED%82%A4%EB%8D%9C%ED%8A%B8/</link>
+      <pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/%ED%82%A4%EB%8D%9C%ED%8A%B8/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>음악</title>
+      <link>http://localhost:1313/categories/%EC%9D%8C%EC%95%85/</link>
+      <pubDate>Sun, 28 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/%EC%9D%8C%EC%95%85/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ai</title>
+      <link>http://localhost:1313/categories/ai/</link>
+      <pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/ai/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
