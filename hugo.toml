@@ -1,4 +1,4 @@
-baseURL = 'https://kidult-stage.com/'
+baseURL = '/'
 languageCode = 'ko-kr'
 title = 'kidult-stage : Never Stop Playing'
 theme = 'congo'
