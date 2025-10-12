@@ -1,10 +1,10 @@
 baseURL = 'https://kidult-stage.com/'
 languageCode = 'ko-kr'
-title = 'kidult-stage'
+title = 'kidult-stage : Never Stop Playing'
 theme = 'congo'
 
 enableRobotsTXT = true
-summaryLength = 30
+summaryLength = 70
 
 [pagination]
   pagerSize = 10
@@ -20,7 +20,7 @@ summaryLength = 30
   showRecent = true
   showRecentItems = 10
   cardView = true
-  cardViewScreenWidth = false
+  cardViewScreenWidth = true
 
 [params.article]
   showDate = true

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on kidult-stage</title>
+    <title>Tags on kidult-stage : Never Stop Playing</title>
     <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on kidult-stage</description>
+    <description>Recent content in Tags on kidult-stage : Never Stop Playing</description>
     <generator>Hugo</generator>
     <language>ko-kr</language>
     <lastBuildDate>Sun, 12 Oct 2025 00:00:00 +0000</lastBuildDate>
@@ -699,13 +699,6 @@
       <link>http://localhost:1313/tags/%ED%94%BC%EA%B7%9C%EC%96%B4%EB%A6%AC%EB%B7%B0/</link>
       <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/%ED%94%BC%EA%B7%9C%EC%96%B4%EB%A6%AC%EB%B7%B0/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>덱빌딩</title>
-      <link>http://localhost:1313/tags/%EB%8D%B1%EB%B9%8C%EB%94%A9/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%EB%8D%B1%EB%B9%8C%EB%94%A9/</guid>
       <description></description>
     </item>
   </channel>
