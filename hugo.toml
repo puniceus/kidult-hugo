@@ -15,7 +15,7 @@ summaryLength = 70
   autoSwitchAppearance = true
 
 [params.homepage]
-  layout = "page"
+  layout = "custom"
   homepageImage = ""
   showRecent = true
   showRecentItems = 5
