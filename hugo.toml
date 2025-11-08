@@ -15,12 +15,12 @@ summaryLength = 70
   autoSwitchAppearance = true
 
 [params.homepage]
-  layout = "card"
+  layout = "page"
   homepageImage = ""
   showRecent = true
-  showRecentItems = 10
-  cardView = true
-  cardViewScreenWidth = true
+  showRecentItems = 5
+  cardView = false
+  cardViewScreenWidth = false
 
 [params.article]
   showDate = true
@@ -43,12 +43,12 @@ summaryLength = 70
 
 [params.list]
   showHero = false
-  showBreadcrumbs = true
+  showBreadcrumbs = false
   showSummary = true
   showTableOfContents = false
-  showCards = true
+  showCards = false
   groupByYear = false
-  cardView = true
+  cardView = false
 
 [params.sitemap]
   changefreq = "weekly"
