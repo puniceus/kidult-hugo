@@ -4,10 +4,10 @@ date: 2025-11-08T09:11:48+09:00
 draft: false
 slug: "mastering-karaoke-hits-high-notes-to-mood"
 categories:
-  - music
+  - 음악
 tags:
   - 노래방에서 인기곡 잘 부르는 꿀팁: 고음 처리부터 분위기 메이킹까지
-  - music
+  - 음악
 image: "images/mastering-karaoke-hits-high-notes-to-mood.png"
 description: "노래방에서 인기곡 잘 부르는 꿀팁: 고음 처리부터 분위기 메이킹까지에 대한 완벽 가이드. 2025년 최신 트렌드와 실전 팁을 확인하세요."
 ---

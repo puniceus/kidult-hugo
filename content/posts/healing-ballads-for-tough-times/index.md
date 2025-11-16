@@ -4,10 +4,10 @@ date: 2025-11-08T13:34:12+09:00
 draft: false
 slug: "healing-ballads-for-tough-times"
 categories:
-  - music
+  - 음악
 tags:
   - 지친 마음 위로해 줄 감성 발라드 노래 추천 플레이리스트: 힘든 날 듣기 좋은 곡 모음
-  - music
+  - 음악
 image: "images/healing-ballads-for-tough-times.png"
 description: "지친 마음 위로해 줄 감성 발라드 노래 추천 플레이리스트: 힘든 날 듣기 좋은 곡 모음에 대한 완벽 가이드. 2025년 최신 트렌드와 실전 팁을 확인하세요."
 ---

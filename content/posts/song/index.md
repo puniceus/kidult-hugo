@@ -4,10 +4,10 @@ date: 2025-11-08T09:06:52+09:00
 draft: false
 slug: "song"
 categories:
-  - music
+  - 음악
 tags:
   - 노래
-  - music
+  - 음악
 image: "images/song.png"
 description: "노래에 대한 완벽 가이드. 2025년 최신 트렌드와 실전 팁을 확인하세요."
 ---

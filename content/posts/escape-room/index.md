@@ -4,10 +4,10 @@ date: 2025-11-02T04:39:13+09:00
 draft: false
 slug: "escape-room"
 categories:
-  - kidult
+  - 키덜트
 tags:
   - 방탈출
-  - kidult
+  - 키덜트
 image: "images/escape-room.png"
 description: "방탈출에 대한 완벽 가이드. 2025년 최신 트렌드와 실전 팁을 확인하세요."
 ---

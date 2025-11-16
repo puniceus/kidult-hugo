@@ -4,10 +4,10 @@ date: 2025-11-02T02:49:42+09:00
 draft: false
 slug: "adsense"
 categories:
-  - marketing
+  - 마케팅
 tags:
   - 애드센스
-  - marketing
+  - 마케팅
 image: "images/adsense.png"
 description: "애드센스에 대한 완벽 가이드. 2025년 최신 트렌드와 실전 팁을 확인하세요."
 ---
