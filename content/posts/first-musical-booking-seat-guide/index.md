@@ -8,7 +8,7 @@ categories:
 tags:
   - 첫 뮤지컬 관람자를 위한 예매 팁과 좌석 추천 가이드
   - kidult
-image: "first-musical-booking-seat-guide.png"
+image: "images/first-musical-booking-seat-guide.png"
 description: "첫 뮤지컬 관람자를 위한 예매 팁과 좌석 추천 가이드에 대한 완벽 가이드. 2025년 최신 트렌드와 실전 팁을 확인하세요."
 ---
 
