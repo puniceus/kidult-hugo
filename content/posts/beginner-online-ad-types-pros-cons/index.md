@@ -4,12 +4,12 @@ date: 2025-11-16T14:37:18+09:00
 draft: false
 slug: "beginner-online-ad-types-pros-cons"
 categories:
-  - marketing
+  - 마케팅
 tags:
   - 초보자를 위한 온라인 광고 종류별 특징과 장단점 비교
-  - marketing
+  - 마케팅
 image: "images/beginner-online-ad-types-pros-cons.png"
-description: "20년 경력의 베테랑 마케터 박진우가 초보 마케터를 위해 온라인 광고를 쉽고 재미있게 안내합니다. 그는 실전 경험과 노하우로 비즈니스에 맞는 광고 선택, 효율적인 예산 활용 등 실질적 해결책을 제시합니다."
+description: "20년 경력의 베테랑 마케터 박진우가 초보 마케터를 위해 온라인 광고를 쉽고 재미있게 안내합니다. 실전 경험과 노하우로 비즈니스에 맞는 광고 선택, 효율적인 예산 활용 등 실질적 해결책을 제시합니다."
 ---
 
 ![초보자 온라인 광고, 나에게 딱 맞는 건?](images/beginner-online-ad-types-pros-cons.png "초보자 온라인 광고, 나에게 딱 맞는 건?")
