@@ -16,7 +16,7 @@ tags:
   - "프라모델"
   - "피규어"
   - "피규어리뷰"
-coverImage: "thumbnail-20250808-180709.png"
+image: "images/thumbnail-20250808-180709.png"
 ---
 
 ![블록을 넘어 예술로: 레고, 키덜트 마케팅의 정점 썸네일](images/thumbnail-20250808-180709.png)

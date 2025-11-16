@@ -8,7 +8,7 @@ tags:
   - "키덜트"
   - "키덜트-가이드"
   - "페인팅"
-coverImage: "thumbnail-20251011-180255.jpg"
+image: "images/thumbnail-20251011-180255.jpg"
 ---
 
 ![페인팅](images/thumbnail-20251011-180255.jpg "페인팅 실전 활용법과 노하우: 똥손도 금손 만드는 2025년 완전판!")

@@ -8,7 +8,7 @@ tags:
   - "키덜트"
   - "키덜트-가이드"
   - "프라모델"
-coverImage: "thumbnail-20250928-180219.jpg"
+image: "images/thumbnail-20250928-180219.jpg"
 ---
 
 ![프라모델](images/thumbnail-20250928-180219.jpg "프라모델 입문부터 완성까지, 2024년 최신 완벽 가이드북!")

@@ -8,7 +8,7 @@ tags:
   - "roi"
   - "마케팅"
   - "마케팅-가이드"
-coverImage: "thumbnail-20250924-180219.jpg"
+image: "images/thumbnail-20250924-180219.jpg"
 ---
 
 ![ROI](images/thumbnail-20250924-180219.jpg "ROI, 수익률 극대화를 위한 2024년 핵심 실전 가이드")

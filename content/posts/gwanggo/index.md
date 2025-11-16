@@ -8,7 +8,7 @@ tags:
   - "광고"
   - "마케팅"
   - "마케팅-가이드"
-coverImage: "thumbnail-20250905-180219.jpg"
+image: "images/thumbnail-20250905-180219.jpg"
 ---
 
 ![광고](images/thumbnail-20250905-180219.jpg "광고 집행, 실패는 없다! 수익 극대화를 위한 실전 전략과 핵심 노하우")

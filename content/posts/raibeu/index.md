@@ -8,7 +8,7 @@ tags:
   - "라이브"
   - "음악"
   - "음악-가이드"
-coverImage: "thumbnail-20250902-180220.jpg"
+image: "images/thumbnail-20250902-180220.jpg"
 ---
 
 ![라이브](images/thumbnail-20250902-180220.jpg "라이브 방송 초고수 실전 활용법! 시청자를 사로잡는 비법 노하우")

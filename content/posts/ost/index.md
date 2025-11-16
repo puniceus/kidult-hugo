@@ -8,7 +8,7 @@ tags:
   - "ost"
   - "마케팅"
   - "마케팅-가이드"
-coverImage: "thumbnail-20251010-180228.jpg"
+image: "images/thumbnail-20251010-180228.jpg"
 ---
 
 ![OST](images/thumbnail-20251010-180228.jpg "OST 완벽 가이드: 2025년 놓치면 후회할 베스트 컬렉션")

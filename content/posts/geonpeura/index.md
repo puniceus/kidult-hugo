@@ -8,7 +8,7 @@ tags:
   - "건프라"
   - "키덜트"
   - "키덜트-가이드"
-coverImage: "thumbnail-20251001-180221.jpg"
+image: "images/thumbnail-20251001-180221.jpg"
 ---
 
 ![건프라](images/thumbnail-20251001-180221.jpg "건프라 2024년 완벽 가이드: 초보부터 고수까지 마스터하는 궁극의 비법")

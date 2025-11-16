@@ -7,7 +7,7 @@ tags:
   - "2025"
   - "키덜트"
   - "키덜트-가이드"
-coverImage: "kidult-room-scaled.jpg"
+image: "images/kidult-room-scaled.jpg"
 ---
 
 ![](images/kidult-room-1024x559.jpg "키덜트 당신의 잠자는 동심을 깨워줄 최고의 취미 추천")

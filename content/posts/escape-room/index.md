@@ -8,7 +8,7 @@ categories:
 tags:
   - 방탈출
   - kidult
-coverImage: "escape-room.png"
+image: "images/escape-room.png"
 description: "방탈출에 대한 완벽 가이드. 2025년 최신 트렌드와 실전 팁을 확인하세요."
 ---
 

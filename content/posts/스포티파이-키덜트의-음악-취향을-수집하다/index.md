@@ -16,7 +16,7 @@ tags:
   - "키덜트"
   - "프라모델"
   - "피규어"
-coverImage: "thumbnail-20250809-221853.png"
+image: "images/thumbnail-20250809-221853.png"
 ---
 
 ![스포티파이, 키덜트의 음악 취향을 수집하다](images/thumbnail-20250809-221853.png)

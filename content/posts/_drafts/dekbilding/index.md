@@ -7,7 +7,7 @@ tags:
   - "덱빌딩"
   - "키덜트"
   - "키덜트-가이드"
-coverImage: "thumbnail-20251012-180233.jpg"
+image: "images/thumbnail-20251012-180233.jpg"
 draft: true
 ---
 

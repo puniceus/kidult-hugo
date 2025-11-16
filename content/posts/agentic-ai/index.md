@@ -9,7 +9,7 @@ tags:
   - "ai"
   - "ai-가이드"
   - "이틱-ai는-정말-인간의-일자리를-대"
-coverImage: "manual-thumbnail-20250816-112328.png"
+image: "images/manual-thumbnail-20250816-112328.png"
 ---
 
 ![Agentic AI](images/manual-thumbnail-20250816-112328.png "Agentic AI: 인간 일자리, 정말 대체될까?")

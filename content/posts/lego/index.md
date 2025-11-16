@@ -8,7 +8,7 @@ tags:
   - "레고"
   - "키덜트"
   - "키덜트-가이드"
-coverImage: "thumbnail-20250813-065733.jpg"
+image: "images/thumbnail-20250813-065733.jpg"
 ---
 
 ![레고](images/thumbnail-20250813-065733-1.jpg "레고 최고 인기 제품 총정리")

@@ -8,7 +8,7 @@ tags:
   - "tcg-vs-ccg-차이점-나에게-맞는-카드게임-장르-선택-가이드"
   - "키덜트"
   - "키덜트-가이드"
-coverImage: "thumbnail-20250918-180232.jpg"
+image: "images/thumbnail-20250918-180232.jpg"
 ---
 
 ![TCG vs CCG 차이점: 나에게 맞는 카드게임 장르 선택 가이드](images/thumbnail-20250918-180232.jpg "TCG vs CCG 차이점: 나에게 맞는 카드게임 장르 선택 가이드 핵심 정리")

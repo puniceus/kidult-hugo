@@ -8,7 +8,7 @@ tags:
   - "네이버광고"
   - "마케팅"
   - "마케팅-가이드"
-coverImage: "thumbnail-20251004-180236.jpg"
+image: "images/thumbnail-20251004-180236.jpg"
 ---
 
 ![네이버광고](images/thumbnail-20251004-180236.jpg "네이버광고: 2024년 최신! 클릭 부르는 실전 전략 완벽 가이드")

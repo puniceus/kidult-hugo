@@ -8,7 +8,7 @@ tags:
   - "rc카"
   - "마케팅"
   - "마케팅-가이드"
-coverImage: "thumbnail-20250926-180232.jpg"
+image: "images/thumbnail-20250926-180232.jpg"
 ---
 
 ![RC카](images/thumbnail-20250926-180232.jpg "RC카 초보자를 위한 완벽 가이드: 실패 없는 첫 시작!")

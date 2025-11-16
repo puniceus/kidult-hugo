@@ -8,7 +8,7 @@ tags:
   - "마케팅"
   - "인형뽑기"
   - "인형뽑기-트렌드"
-coverImage: "thumbnail-20250810-111825.png"
+image: "images/thumbnail-20250810-111825.png"
 ---
 
 ![지갑 열리는 마성의 매력, 인형뽑기 푹 빠져볼까?](images/thumbnail-20250810-111825.png)

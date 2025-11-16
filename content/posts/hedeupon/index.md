@@ -8,7 +8,7 @@ tags:
   - "음악"
   - "음악-가이드"
   - "헤드폰"
-coverImage: "thumbnail-20250827-180156.jpg"
+image: "images/thumbnail-20250827-180156.jpg"
 ---
 
 ![헤드폰](images/thumbnail-20250827-180156.jpg "헤드폰 실전 활용: 음질 200% 즐기기! 전문가의 숨겨진 노하우")

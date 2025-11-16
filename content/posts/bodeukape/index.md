@@ -8,7 +8,7 @@ tags:
   - "보드카페"
   - "키덜트"
   - "키덜트-가이드"
-coverImage: "thumbnail-20250815-203256.jpg"
+image: "images/thumbnail-20250815-203256.jpg"
 ---
 
 ![보드카페](images/thumbnail-20250815-203256.jpg "보드카페 초보부터 고수까지! 후회 없는 즐길 거리와 추천 매장")

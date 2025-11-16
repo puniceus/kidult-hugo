@@ -8,7 +8,7 @@ tags:
   - "카드게임"
   - "키덜트"
   - "키덜트-가이드"
-coverImage: "thumbnail-20250917-180421.jpg"
+image: "images/thumbnail-20250917-180421.jpg"
 ---
 
 ![카드게임](images/thumbnail-20250917-180421.jpg "카드게임 2025년 완벽 가이드: 승률 높이는 최신 전략과 꿀팁 대방출")

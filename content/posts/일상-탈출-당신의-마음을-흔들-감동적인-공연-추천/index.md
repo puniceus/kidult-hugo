@@ -8,7 +8,7 @@ tags:
   - "공연"
   - "공연-트렌드"
   - "마케팅"
-coverImage: "thumbnail-20250810-110452.png"
+image: "images/thumbnail-20250810-110452.png"
 ---
 
 ![일상 탈출! 당신의 마음을 흔들 감동적인 공연 추천](images/thumbnail-20250810-110452.png)

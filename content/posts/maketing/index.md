@@ -7,7 +7,7 @@ tags:
   - "2025"
   - "마케팅"
   - "마케팅-가이드"
-coverImage: "thumbnail-20250830-180209.jpg"
+image: "images/thumbnail-20250830-180209.jpg"
 ---
 
 ![마케팅](images/thumbnail-20250830-180209.jpg "마케팅 실전에서 바로 통하는 핵심 활용 전략과 비밀 노하우")

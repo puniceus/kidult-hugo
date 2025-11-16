@@ -8,7 +8,7 @@ tags:
   - "노래"
   - "노래-트렌드"
   - "마케팅"
-coverImage: "thumbnail-20250810-180048.png"
+image: "images/thumbnail-20250810-180048.png"
 ---
 
 ![지친 하루 끝, 당신에게 꼭 필요한 위로의 노래는 무엇일까요?](images/thumbnail-20250810-180048.png)

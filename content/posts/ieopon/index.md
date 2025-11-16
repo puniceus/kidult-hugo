@@ -8,7 +8,7 @@ tags:
   - "음악"
   - "음악-가이드"
   - "이어폰"
-coverImage: "thumbnail-20250822-180204.jpg"
+image: "images/thumbnail-20250822-180204.jpg"
 ---
 
 ![이어폰](images/thumbnail-20250822-180204.jpg "이어폰, 돈 낭비 없이 득템 성공! 구매 전 꼭 알아볼 필수 체크리스트")

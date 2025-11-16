@@ -8,7 +8,7 @@ tags:
   - "음악"
   - "음악-가이드"
   - "클래식"
-coverImage: "thumbnail-20250817-180204.jpg"
+image: "images/thumbnail-20250817-180204.jpg"
 ---
 
 ![클래식](images/thumbnail-20250817-180204.jpg "클래식, 이제 완벽 마스터! 성공을 부르는 핵심 비법 대공개")

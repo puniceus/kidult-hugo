@@ -8,7 +8,7 @@ tags:
   - "코스프레"
   - "키덜트"
   - "키덜트-가이드"
-coverImage: "thumbnail-20250914-180321.jpg"
+image: "images/thumbnail-20250914-180321.jpg"
 ---
 
 ![코스프레](images/thumbnail-20250914-180321.jpg "코스프레 완벽 가이드: 2025년 당신의 코스프레를 빛낼 최강 전략")

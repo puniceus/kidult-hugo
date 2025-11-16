@@ -9,7 +9,7 @@ tags:
   - "레고-트렌드"
   - "마케팅"
   - "키덜트"
-coverImage: "thumbnail-20250810-135233.png"
+image: "images/thumbnail-20250810-135233.png"
 ---
 
 ![추억 속 레고 블록, 어른이 된 지금 더 큰 행복을 주다](images/thumbnail-20250810-135233.png)

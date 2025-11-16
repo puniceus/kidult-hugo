@@ -8,7 +8,7 @@ categories:
 tags:
   - 노래
   - music
-coverImage: "song.png"
+image: "images/song.png"
 description: "노래에 대한 완벽 가이드. 2025년 최신 트렌드와 실전 팁을 확인하세요."
 ---
 

@@ -8,7 +8,7 @@ tags:
   - "락밴드"
   - "음악"
   - "음악-가이드"
-coverImage: "thumbnail-20250815-085409.jpg"
+image: "images/thumbnail-20250815-085409.jpg"
 ---
 
 ![락밴드](images/thumbnail-20250815-085409.jpg "락밴드 전설적인 무대 뒤 숨겨진 이야기 그들의 뜨거운 에너지")

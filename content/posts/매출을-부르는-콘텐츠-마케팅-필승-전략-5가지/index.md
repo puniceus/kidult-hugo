@@ -9,7 +9,7 @@ tags:
   - "검색엔진최적화"
   - "마케팅"
   - "콘텐츠-마케팅"
-coverImage: "thumbnail-20250811-230224.jpeg"
+image: "images/thumbnail-20250811-230224.jpeg"
 ---
 
 ![매출을 부르는 콘텐츠 마케팅 필승 전략 5가지](images/thumbnail-20250811-230224.jpeg)

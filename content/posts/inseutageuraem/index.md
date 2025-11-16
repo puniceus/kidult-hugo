@@ -8,7 +8,7 @@ tags:
   - "마케팅"
   - "마케팅-가이드"
   - "인스타그램"
-coverImage: "thumbnail-20250908-180224.jpg"
+image: "images/thumbnail-20250908-180224.jpg"
 ---
 
 ![인스타그램](images/thumbnail-20250908-180224.jpg "인스타그램 실전 활용: 팔로워 떡상시키는 비밀 노하우 7가지!")

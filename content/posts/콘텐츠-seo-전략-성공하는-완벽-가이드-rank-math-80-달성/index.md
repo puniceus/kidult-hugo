@@ -7,7 +7,7 @@ tags:
   - "seo"
   - "마케팅"
   - "콘텐츠-seo-전략"
-coverImage: "thumbnail-20250811-232558.jpeg"
+image: "images/thumbnail-20250811-232558.jpeg"
 ---
 
 ![콘텐츠 SEO 전략](images/thumbnail-20250811-232558.jpeg)

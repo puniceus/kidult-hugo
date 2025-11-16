@@ -8,7 +8,7 @@ tags:
   - "원피스피규어"
   - "키덜트"
   - "키덜트-가이드"
-coverImage: "thumbnail-20251007-180331.jpg"
+image: "images/thumbnail-20251007-180331.jpg"
 ---
 
 ![원피스피규어](images/thumbnail-20251007-180331.jpg "원피스피규어 초보부터 전문가까지! 2024년 필수 완벽 가이드")

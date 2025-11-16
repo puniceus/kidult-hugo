@@ -7,7 +7,7 @@ tags:
   - "seo"
   - "마케팅"
   - "콘텐츠-마케팅-퍼널-구축"
-coverImage: "thumbnail-20250811-233450.jpeg"
+image: "images/thumbnail-20250811-233450.jpeg"
 ---
 
 ![콘텐츠 마케팅 퍼널 구축](images/thumbnail-20250811-233450.jpeg)

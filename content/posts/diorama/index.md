@@ -8,7 +8,7 @@ tags:
   - "디오라마"
   - "키덜트"
   - "키덜트-가이드"
-coverImage: "thumbnail-20250920-180215.jpg"
+image: "images/thumbnail-20250920-180215.jpg"
 ---
 
 ![디오라마](images/thumbnail-20250920-180215.jpg "디오라마 완벽 가이드: 초보도 전문가처럼 만드는 핵심 비법 공개")

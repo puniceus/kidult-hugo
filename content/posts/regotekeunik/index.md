@@ -8,7 +8,7 @@ tags:
   - "레고테크닉"
   - "키덜트"
   - "키덜트-가이드"
-coverImage: "레고테크닉_이미지-scaled.jpg"
+image: "images/레고테크닉_이미지-scaled.jpg"
 ---
 
 ![](images/레고테크닉_이미지-1-1024x559.jpg "레고테크닉 당신의 손끝에서 펼쳐지는 기계공학의 세계")

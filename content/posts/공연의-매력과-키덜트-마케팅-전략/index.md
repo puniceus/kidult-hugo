@@ -16,7 +16,7 @@ tags:
   - "키덜트"
   - "프라모델"
   - "피규어"
-coverImage: "thumbnail-20250809-222854.png"
+image: "images/thumbnail-20250809-222854.png"
 ---
 
 ![공연의 매력과 키덜트 마케팅 전략](images/thumbnail-20250809-222854.png)

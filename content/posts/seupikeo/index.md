@@ -8,7 +8,7 @@ tags:
   - "스피커"
   - "음악"
   - "음악-가이드"
-coverImage: "thumbnail-20250824-180235.jpg"
+image: "images/thumbnail-20250824-180235.jpg"
 ---
 
 ![스피커](images/thumbnail-20250824-180235.jpg "스피커 추천 베스트 선택법: 2025년 최고의 음질을 찾는 당신에게")

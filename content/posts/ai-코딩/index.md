@@ -9,7 +9,7 @@ tags:
   - "ai-가이드"
   - "ai-코딩"
   - "ai-코딩은-지속-가능한-일인가에-대"
-coverImage: "manual-thumbnail-20250824-150926.png"
+image: "images/manual-thumbnail-20250824-150926.png"
 ---
 
 ![AI 코딩](images/manual-thumbnail-20250824-150926.png "AI 코딩, 달콤한 독인가? 지속 가능성에 대한 질문")

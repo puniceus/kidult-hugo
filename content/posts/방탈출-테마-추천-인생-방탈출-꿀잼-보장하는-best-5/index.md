@@ -7,7 +7,7 @@ tags:
   - "seo"
   - "마케팅"
   - "방탈출-테마-추천"
-coverImage: "thumbnail-20250812-222628.jpeg"
+image: "images/thumbnail-20250812-222628.jpeg"
 ---
 
 ![방탈출 테마 추천](images/thumbnail-20250812-222628.jpeg)

@@ -8,7 +8,7 @@ tags:
   - "음악"
   - "음악-가이드"
   - "팝송으로-영어-공부-효과적으로-하는-법-초보자-맞춤"
-coverImage: "Gemini_Generated_Image_era2j4era2j4era2.png"
+image: "images/Gemini_Generated_Image_era2j4era2j4era2.png"
 ---
 
 ![](images/Gemini_Generated_Image_era2j4era2j4era2.png)

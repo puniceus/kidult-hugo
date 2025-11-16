@@ -8,7 +8,7 @@ tags:
   - "ctr"
   - "마케팅"
   - "마케팅-가이드"
-coverImage: "thumbnail-20250927-180221.jpg"
+image: "images/thumbnail-20250927-180221.jpg"
 ---
 
 ![CTR](images/thumbnail-20250927-180221.jpg "CTR 극대화! 2024년 최신 실전 활용 가이드와 성공 노하우")

@@ -7,7 +7,7 @@ tags:
   - "seo"
   - "마케팅"
   - "첫-방탈출-어떤-테마를-고를까-난이도-장르별-추천-가"
-coverImage: "thumbnail-20250811-203719.png"
+image: "images/thumbnail-20250811-203719.png"
 ---
 
 ![첫 방탈출, 난이도 장르별 추천 테마 고르기](images/thumbnail-20250811-203719.png)

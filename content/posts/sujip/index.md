@@ -8,7 +8,7 @@ tags:
   - "수집"
   - "키덜트"
   - "키덜트-가이드"
-coverImage: "thumbnail-20250929-180245.jpg"
+image: "images/thumbnail-20250929-180245.jpg"
 ---
 
 ![수집](images/thumbnail-20250929-180245.jpg "수집 실전 활용법과 노하우: 잠자던 가치를 깨울 전문가들의 특급 비결!")

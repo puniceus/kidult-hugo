@@ -8,7 +8,7 @@ tags:
   - "음악"
   - "음악-가이드"
   - "콘서트"
-coverImage: "thumbnail-20250923-180206.jpg"
+image: "images/thumbnail-20250923-180206.jpg"
 ---
 
 ![콘서트](images/thumbnail-20250923-180206.jpg "콘서트 100배 즐기기 위한 실전 활용법과 꿀팁 노하우")

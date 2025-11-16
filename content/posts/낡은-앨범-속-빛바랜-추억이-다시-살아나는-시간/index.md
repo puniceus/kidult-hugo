@@ -9,7 +9,7 @@ tags:
   - "앨범"
   - "앨범-트렌드"
   - "음악"
-coverImage: "thumbnail-20250810-124331.png"
+image: "images/thumbnail-20250810-124331.png"
 ---
 
 ![낡은 앨범 속, 빛바랜 추억이 다시 살아나는 시간](images/thumbnail-20250810-124331.png)

@@ -8,7 +8,7 @@ tags:
   - "음악"
   - "음악-가이드"
   - "팝송"
-coverImage: "thumbnail-20250911-180223.jpg"
+image: "images/thumbnail-20250911-180223.jpg"
 ---
 
 ![팝송](images/thumbnail-20250911-180223.jpg "팝송 추천! 당신의 인생을 바꿀 명곡 찾는 궁극의 선택법")

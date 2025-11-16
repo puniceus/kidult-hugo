@@ -7,7 +7,7 @@ tags:
   - "2025"
   - "음악"
   - "음악-가이드"
-coverImage: "thumbnail-20250925-180234.jpg"
+image: "images/thumbnail-20250925-180234.jpg"
 ---
 
 ![음악](images/thumbnail-20250925-180234.jpg "음악 추천 끝판왕: 2024년 당신의 취향 저격 베스트 선곡법.")

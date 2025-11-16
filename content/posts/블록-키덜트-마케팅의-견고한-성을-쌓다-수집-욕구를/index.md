@@ -16,7 +16,7 @@ tags:
   - "프라모델"
   - "피규어"
   - "피규어리뷰"
-coverImage: "thumbnail-20250809-075958.png"
+image: "images/thumbnail-20250809-075958.png"
 ---
 
 ![블록, 키덜트 마케팅의 견고한 성을 쌓다: 수집 욕구를 자극하는 전략과 SEO 방안](images/thumbnail-20250809-075958.png)

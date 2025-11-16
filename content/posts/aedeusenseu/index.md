@@ -8,7 +8,7 @@ tags:
   - "마케팅"
   - "마케팅-가이드"
   - "애드센스"
-coverImage: "thumbnail-20250813-222246.jpg"
+image: "images/thumbnail-20250813-222246.jpg"
 ---
 
 ![애드센스](images/thumbnail-20250813-222246.jpg "애드센스 승인 비법 완전 정복")

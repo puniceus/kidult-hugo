@@ -8,7 +8,7 @@ tags:
   - "crm"
   - "마케팅"
   - "마케팅-가이드"
-coverImage: "thumbnail-20250930-180206.jpg"
+image: "images/thumbnail-20250930-180206.jpg"
 ---
 
 ![CRM](images/thumbnail-20250930-180206.jpg "CRM 구매 전 필수! 후회 없는 성공을 위한 체크리스트")

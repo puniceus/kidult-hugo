@@ -7,7 +7,7 @@ tags:
   - "seo"
   - "마케팅"
   - "방탈출"
-coverImage: "thumbnail-20250810-215054.png"
+image: "images/thumbnail-20250810-215054.png"
 ---
 
 ![초보도 성공하는 방탈출! 짜릿한 탈출 꿀팁 완벽 정리](images/thumbnail-20250810-215054.png)

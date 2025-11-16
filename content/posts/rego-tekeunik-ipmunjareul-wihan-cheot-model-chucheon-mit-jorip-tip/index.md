@@ -8,7 +8,7 @@ tags:
   - "레고-테크닉-입문자를-위한-첫-모델-추천-및-조립-팁"
   - "키덜트"
   - "키덜트-가이드"
-coverImage: "lego_class-scaled.jpg"
+image: "images/lego_class-scaled.jpg"
 ---
 
 ![](images/lego_class-1024x559.jpg "레고 테크닉 입문자를 위한 첫 모델 추천 및 조립 팁 레고 테크닉 입문자를 위한 첫 모델 추천 및 조립 꿀팁")
