@@ -13,6 +13,8 @@ summaryLength = 70
   colorScheme = "auto"
   defaultAppearance = "dark"
   autoSwitchAppearance = true
+  mainSections = ["posts"]
+  articleWidth = "full"
 
 [params.homepage]
   layout = "custom"
@@ -20,7 +22,7 @@ summaryLength = 70
   showRecent = true
   showRecentItems = 5
   cardView = false
-  cardViewScreenWidth = false
+  cardViewScreenWidth = true
 
 [params.article]
   showDate = true
@@ -49,6 +51,8 @@ summaryLength = 70
   showCards = false
   groupByYear = false
   cardView = false
+  orderBy = "date"
+  orderByReverse = true
 
 [params.sitemap]
   changefreq = "weekly"
