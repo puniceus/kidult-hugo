@@ -4,10 +4,10 @@ date: 2025-11-08T14:01:53+09:00
 draft: false
 slug: "show"
 categories:
-  - music
+  - 음악
 tags:
   - 공연
-  - music
+  - 음악
 image: "images/show.png"
 description: "공연에 대한 완벽 가이드. 2025년 최신 트렌드와 실전 팁을 확인하세요."
 ---

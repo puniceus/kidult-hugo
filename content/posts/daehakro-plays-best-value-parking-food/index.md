@@ -4,10 +4,10 @@ date: 2025-11-16T10:09:59+09:00
 draft: false
 slug: "daehakro-plays-best-value-parking-food"
 categories:
-  - kidult
+  - 키덜트
 tags:
   - 가성비 좋은 대학로 연극 추천: 주차 정보 및 근처 맛집 포함
-  - kidult
+  - 키덜트
 image: "images/daehakro-plays-best-value-parking-food.png"
 description: "40대 키덜트 수집가는 로봇 피규어만큼이나 대학로 연극에서 얻는 생생한 경험과 추억을 소중히 여깁니다. 물리적 수집품보다 더 큰 만족감을 주는 가성비 좋은 연극을 즐기기 위한 주차 및 맛집 꿀팁을 공유하고자 합니다."
 ---

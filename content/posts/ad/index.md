@@ -4,10 +4,10 @@ date: 2025-11-16T10:23:06+09:00
 draft: false
 slug: "ad"
 categories:
-  - marketing
+  - 마케팅
 tags:
   - 광고
-  - marketing
+  - 마케팅
 image: "images/ad.png"
 description: "20년 경력의 디지털 마케터가 다양한 광고 캠페인 경험과 데이터의 중요성을 바탕으로, ROI 및 전환율을 극대화할 실질적인 팁을 공유합니다. 변화하는 광고 환경 속에서 성과 중심의 전략을 강조하며 노하우를 풀어낼 예정입니다."
 ---
