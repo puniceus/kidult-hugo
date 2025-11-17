@@ -7,7 +7,9 @@ copyright = "kidult-stage"
 DefaultContentLanguage = "ko"
 hasCJKLanguage = true
 
-googleAnalytics = "G-JTKDF5TWQV"
+[services]
+  [services.googleAnalytics]
+    id = "G-JTKDF5TWQV"
 
 [pagination]
   pagerSize = 10
