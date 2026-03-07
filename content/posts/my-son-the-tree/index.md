@@ -1,7 +1,7 @@
 ---
 title: "우리 집 나무의 습격"
 date: 2026-03-07
-draft: true
+draft: false
 categories: ["일상", "가족", "명리"]
 tags: ["기타", "수생목", "육아", "4컷만화", "명리", "사주", "오행"]
 image: "images/my-son-the-tree.png"
@@ -21,3 +21,4 @@ image: "images/my-son-the-tree.png"
 
 
 여러분의 집안 풍경은 어떤 오행의 조화를 이루고 계신가요?
+
