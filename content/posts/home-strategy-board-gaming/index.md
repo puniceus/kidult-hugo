@@ -8,7 +8,7 @@ categories:
 tags:
   - 보드게임 카페가 아닌 '집'에서 즐기는 전략 보드게임 라이프
   - 키덜트
-image: "images/"
+image: "images/home-strategy-board-gaming.png"
 description: "디지털 피로도가 높은 현대인들에게 집에서 즐기는 전략 보드게임은 생산적인 몰입을 제공하는 새로운 취미로 주목받고 있습니다. 편안한 공간에서 취향에 맞춰 즐기는 보드게임은 단순한 놀이를 넘어 주말의 삶의 질을 높여줍니다."
 ---
 
