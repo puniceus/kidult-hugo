@@ -4,10 +4,10 @@ date: 2026-07-27T09:00:38+09:00
 draft: false
 slug: "kidult-music-limited-lp-figure-economics"
 categories:
-  - 통합
+  - "통합"
 tags:
-  - 키덜트와 음악의 만남: 한정판 LP와 피규어 패키지의 경제학
-  - 통합
+  - "키덜트와 음악의 만남: 한정판 LP와 피규어 패키지의 경제학"
+  - "통합"
 image: "images/kidult-music-limited-lp-figure-economics.png"
 description: "한정판 LP와 피규어 패키지는 팬덤의 서사와 취향을 결합해 음악적 경험을 확장하는 고도의 문화적 상품으로 자리 잡았습니다. 다만, '한정판'이라는 마케팅에 휩쓸려 무분별하게 수집하기보다는 자신의 공간과 가치를 고려한 냉철한 판단이 필요합니다."
 ---

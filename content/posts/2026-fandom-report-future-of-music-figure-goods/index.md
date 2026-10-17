@@ -4,10 +4,10 @@ date: 2026-07-13T09:00:53+09:00
 draft: false
 slug: "2026-fandom-report-future-of-music-figure-goods"
 categories:
-  - 통합
+  - "통합"
 tags:
-  - 2026년의 덕질 보고서: 음악과 피규어가 결합된 굿즈의 미래
-  - 통합
+  - "2026년의 덕질 보고서: 음악과 피규어가 결합된 굿즈의 미래"
+  - "통합"
 image: "images/2026-fandom-report-future-of-music-figure-goods.png"
 description: "음악과 피규어가 결합된 굿즈는 단순한 기념품을 넘어 아티스트의 세계관을 담은 입체적 콘텐츠이자 인테리어 소품으로 진화하고 있습니다. 이러한 소비 트렌드 속에서 자신의 공간과 예산을 고려한 현명한 선택 기준을 세우는 것이 덕질을 '자산'으로 만드는 핵심입니다."
 ---

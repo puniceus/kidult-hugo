@@ -4,10 +4,10 @@ date: 2026-05-31T09:01:29+09:00
 draft: false
 slug: "community-based-marketing-power-of-loose-ties"
 categories:
-  - 마케팅
+  - "마케팅"
 tags:
-  - 커뮤니티 기반 마케팅: 브랜드 팬덤을 만드는 ‘느슨한 연대’의 힘
-  - 마케팅
+  - "커뮤니티 기반 마케팅: 브랜드 팬덤을 만드는 ‘느슨한 연대’의 힘"
+  - "마케팅"
 image: "images/community-based-marketing-power-of-loose-ties.png"
 description: "커뮤니티 마케팅은 일방적인 홍보가 아닌, 고객이 취향을 공유하며 스스로 머무는 '느슨한 연대'를 설계하는 것이 핵심입니다. 브랜드가 주도하는 동호회가 아닌 고객 간의 교류를 지원할 때, 지속 가능한 브랜드 팬덤을 구축할 수 있습니다."
 ---

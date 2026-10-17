@@ -4,10 +4,10 @@ date: 2026-08-03T09:00:28+09:00
 draft: false
 slug: "how-to-find-unrecommended-songs-2026-music-curatio"
 categories:
-  - 음악
+  - "음악"
 tags:
-  - 알고리즘이 추천하지 않는 노래를 찾는 법: 2026년형 음악 큐레이션 가이드
-  - 음악
+  - "알고리즘이 추천하지 않는 노래를 찾는 법: 2026년형 음악 큐레이션 가이드"
+  - "음악"
 image: "images/how-to-find-unrecommended-songs-2026-music-curatio.png"
 description: "알고리즘은 과거 데이터에 기반해 비슷한 음악만을 추천하며 사용자의 취향을 고착화합니다. 이에 본 글은 플랫폼의 추천 엔진을 우회하여 능동적으로 새로운 음악을 탐색하고, 음악 소비의 주도권을 되찾는 구체적인 방법론을 제안합니다."
 ---

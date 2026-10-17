@@ -4,10 +4,10 @@ date: 2026-05-22T09:01:41+09:00
 draft: false
 slug: "gacha-machine-home-minimalist-figure-display"
 categories:
-  - 키덜트
+  - "키덜트"
 tags:
-  - 가챠 머신을 집으로: 미니멀리즘 인테리어에 어울리는 소형 피규어 디스플레이
-  - 키덜트
+  - "가챠 머신을 집으로: 미니멀리즘 인테리어에 어울리는 소형 피규어 디스플레이"
+  - "키덜트"
 image: "images/gacha-machine-home-minimalist-figure-display.png"
 description: "가챠 머신과 피규어 수집은 좁은 주거 공간에서 취향을 포기하지 않으려는 현대인의 영리한 공간 경영 전략입니다. 수집품을 잡동사니가 아닌 오브제로 활용하기 위해서는 양보다 배치와 맥락을 고려한 정돈된 수납 기술이 중요합니다."
 ---

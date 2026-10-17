@@ -4,10 +4,10 @@ date: 2026-05-17T06:14:54+09:00
 draft: false
 slug: "lego-technic-desk-setup-adult-hobby"
 categories:
-  - 키덜트
+  - "키덜트"
 tags:
-  - 레고 테크닉 시리즈로 구축하는 나만의 데스크테리어: 성인 취미의 완성
-  - 키덜트
+  - "레고 테크닉 시리즈로 구축하는 나만의 데스크테리어: 성인 취미의 완성"
+  - "키덜트"
 image: "images/lego-technic-desk-setup-adult-hobby.png"
 description: "레고 테크닉은 정교한 기계적 구조를 통해 업무에 지친 직장인들에게 확실한 시각적 만족감과 물리적 피드백을 제공합니다. 조립 과정은 복잡한 일상을 잊고 손끝 감각에 집중하게 하며, 나만의 공간을 채우는 훌륭한 멘탈 리셋 수단이 됩니다."
 ---

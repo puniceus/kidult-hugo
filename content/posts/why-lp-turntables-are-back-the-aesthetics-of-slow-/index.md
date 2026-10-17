@@ -4,10 +4,10 @@ date: 2026-09-04T09:00:46+09:00
 draft: false
 slug: "why-lp-turntables-are-back-the-aesthetics-of-slow-"
 categories:
-  - 음악
+  - "음악"
 tags:
-  - LP 턴테이블이 다시 거실의 중심이 된 이유: '슬로우 리스닝'의 미학
-  - 음악
+  - "LP 턴테이블이 다시 거실의 중심이 된 이유: '슬로우 리스닝'의 미학"
+  - "음악"
 image: "images/why-lp-turntables-are-back-the-aesthetics-of-slow-.png"
 description: "디지털 시대의 편리함에 지친 사람들이 음악을 단순히 소비하지 않고 온전히 '경험'하기 위해 LP 턴테이블을 찾고 있습니다. 물리적인 번거로움을 의식으로 삼는 '슬로우 리스닝'의 가치가 재발견되면서, LP는 단순한 유행을 넘어 음악에 깊이 몰입하는 매개체가 되었습니다."
 ---

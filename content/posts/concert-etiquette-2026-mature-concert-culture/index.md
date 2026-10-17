@@ -4,10 +4,10 @@ date: 2026-07-31T09:00:29+09:00
 draft: false
 slug: "concert-etiquette-2026-mature-concert-culture"
 categories:
-  - 음악
+  - "음악"
 tags:
-  - 공연장 에티켓: 2026년, 콘서트 문화를 성숙하게 즐기는 법
-  - 음악
+  - "공연장 에티켓: 2026년, 콘서트 문화를 성숙하게 즐기는 법"
+  - "음악"
 image: "images/concert-etiquette-2026-mature-concert-culture.png"
 description: "공연장 에티켓은 단순한 도덕적 배려를 넘어 관객 스스로 최상의 관람 경험을 보호하기 위한 필수 전략입니다. 타인의 몰입을 방해하는 행동을 지양하고 성숙한 관람 문화를 실천함으로써, 모두가 온전하고 가치 있는 공연 시간을 확보할 수 있습니다."
 ---

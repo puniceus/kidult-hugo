@@ -4,10 +4,10 @@ date: 2026-07-01T09:00:54+09:00
 draft: false
 slug: "lego-technic-desk-setup-2026-supercar-comparison"
 categories:
-  - 키덜트
+  - "키덜트"
 tags:
-  - 레고 테크닉 시리즈로 즐기는 나만의 데스크테리어: 2026년형 슈퍼카 모델 비교
-  - 키덜트
+  - "레고 테크닉 시리즈로 즐기는 나만의 데스크테리어: 2026년형 슈퍼카 모델 비교"
+  - "키덜트"
 image: "images/lego-technic-desk-setup-2026-supercar-comparison.png"
 description: "레고 테크닉 슈퍼카는 조립 과정에서의 몰입감과 확실한 성취감을 제공하며, 3040 직장인들에게 단순한 장난감을 넘어 정체성을 표현하는 데스크테리어 오브제가 됩니다. 이는 사무실이라는 삭막한 공간에 심미적 가치와 주체성을 부여하는 현실적인 대안이 됩니다."
 ---

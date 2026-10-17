@@ -4,10 +4,10 @@ date: 2026-09-27T09:00:33+09:00
 draft: false
 slug: "evolution-of-subscription-economy-why-experience-s"
 categories:
-  - 마케팅
+  - "마케팅"
 tags:
-  - 구독 경제의 진화: '경험 구독'이 주목받는 이유
-  - 마케팅
+  - "구독 경제의 진화: '경험 구독'이 주목받는 이유"
+  - "마케팅"
 image: "images/evolution-of-subscription-economy-why-experience-s.png"
 description: "구독 경제가 물건을 소유하는 방식에서 시간과 활동을 구매하는 ‘경험 구독’으로 진화하고 있습니다. 이는 물건을 쌓아두는 피로감에서 벗어나 일상의 밀도를 높이고 싶은 이들에게 새로운 대안이 됩니다. 본문은 소유 중심의 소비를 넘어, 자신에게 필요한 경험을 선택하는 기준을"
 ---

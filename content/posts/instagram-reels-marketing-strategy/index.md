@@ -4,10 +4,10 @@ date: 2025-11-20T02:10:25+09:00
 draft: false
 slug: "instagram-reels-marketing-strategy"
 categories:
-  - 마케팅
+  - "마케팅"
 tags:
-  - 인스타그램 릴스 마케팅 활용법: 효과적인 홍보 전략
-  - 마케팅
+  - "인스타그램 릴스 마케팅 활용법: 효과적인 홍보 전략"
+  - "마케팅"
 image: "images/instagram-reels-marketing-strategy.png"
 description: "20년 경력의 베테랑 마케터가 2025년에도 필수인 인스타그램 릴스 마케팅에 대해 이야기합니다. 릴스는 고객 유입과 전환율 개선에 큰 효과를 보이며, 저자는 실제 경험을 바탕으로 비즈니스에 릴스를 효과적으로 활용하는 방법을 공유할 예정입니다."
 ---

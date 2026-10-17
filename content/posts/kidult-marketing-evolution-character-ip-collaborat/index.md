@@ -4,10 +4,10 @@ date: 2026-07-06T09:00:58+09:00
 draft: false
 slug: "kidult-marketing-evolution-character-ip-collaborat"
 categories:
-  - 통합
+  - "통합"
 tags:
-  - 키덜트 마케팅의 진화: 왜 대기업들은 캐릭터 IP와 협업하는가?
-  - 통합
+  - "키덜트 마케팅의 진화: 왜 대기업들은 캐릭터 IP와 협업하는가?"
+  - "통합"
 image: "images/kidult-marketing-evolution-character-ip-collaborat.png"
 description: "키덜트 마케팅과 캐릭터 IP 협업은 단순한 상품 판매를 넘어 브랜드의 생존 전략이자 소비자의 정체성을 표현하는 핵심 수단이 되었습니다. 주도적인 취향 소비를 원하는 대중과 브랜드 가치를 높이려는 기업의 이해관계가 맞물리며, 캐릭터 협업은 현대 마케팅의 필수적인 전략으로"
 ---

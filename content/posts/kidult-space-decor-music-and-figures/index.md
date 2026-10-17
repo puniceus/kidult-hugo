@@ -4,10 +4,10 @@ date: 2026-08-31T09:00:35+09:00
 draft: false
 slug: "kidult-space-decor-music-and-figures"
 categories:
-  - 통합
+  - "통합"
 tags:
-  - 나만의 '키덜트' 공간 꾸미기: 음악과 피규어의 조화로운 배치
-  - 통합
+  - "나만의 '키덜트' 공간 꾸미기: 음악과 피규어의 조화로운 배치"
+  - "통합"
 image: "images/kidult-space-decor-music-and-figures.png"
 description: "나만의 키덜트 공간은 피규어와 음악이 조화를 이룰 때 일상의 스트레스를 해소하는 안식처가 됩니다. 수집품이 늘어날수록 시각적 소음이 되기 쉬우므로, 좁은 공간에서도 효율적으로 배치하여 취향과 정돈을 모두 잡는 노하우가 필요합니다."
 ---

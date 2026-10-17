@@ -4,10 +4,10 @@ date: 2026-09-07T09:00:27+09:00
 draft: false
 slug: "fandom-as-a-strategy-personal-branding"
 categories:
-  - 통합
+  - "통합"
 tags:
-  - 덕질도 전략이다: 취향을 자산으로 만드는 '퍼스널 브랜딩' 기술
-  - 통합
+  - "덕질도 전략이다: 취향을 자산으로 만드는 '퍼스널 브랜딩' 기술"
+  - "통합"
 image: "images/fandom-as-a-strategy-personal-branding.png"
 description: "단순한 소비를 넘어 자신의 취향과 덕질 경험을 기록하고 공유하는 것은 강력한 퍼스널 브랜딩 자산이 됩니다. 개인의 취향 데이터를 전략적으로 가공해 콘텐츠화함으로써, 당신의 SNS를 누군가에게 영감을 주는 매력적인 브랜딩 채널로 만들어 보세요."
 ---

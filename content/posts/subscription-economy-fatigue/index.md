@@ -4,10 +4,10 @@ date: 2026-07-19T09:00:53+09:00
 draft: false
 slug: "subscription-economy-fatigue"
 categories:
-  - 마케팅
+  - "마케팅"
 tags:
-  - 구독 경제의 피로도: 당신의 구독 서비스는 안녕하십니까?
-  - 마케팅
+  - "구독 경제의 피로도: 당신의 구독 서비스는 안녕하십니까?"
+  - "마케팅"
 image: "images/subscription-economy-fatigue.png"
 description: "현대 소비자는 편리함 대신 매달 자동 결제되는 구독료에 피로감을 느끼며, 서비스의 주체가 아닌 수동적인 관리자로 전락했습니다. 이에 본 글은 포화 상태인 구독 경제 속에서 브랜드의 '락인 효과'에 휘둘리지 않고, 소비자가 주도적으로 고정비를 통제하며 효율적인 취향을 찾"
 ---

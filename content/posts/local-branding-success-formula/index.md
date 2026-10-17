@@ -4,10 +4,10 @@ date: 2026-09-20T09:00:43+09:00
 draft: false
 slug: "local-branding-success-formula"
 categories:
-  - 마케팅
+  - "마케팅"
 tags:
-  - 로컬 브랜딩의 성공 방정식: '동네의 가치'를 재발견하는 법
-  - 마케팅
+  - "로컬 브랜딩의 성공 방정식: '동네의 가치'를 재발견하는 법"
+  - "마케팅"
 image: "images/local-branding-success-formula.png"
 description: "로컬 마케팅은 이제 단순 홍보를 넘어 지역 고유의 맥락과 철학을 담아 고객의 취향을 공략하는 브랜딩 전략으로 진화했습니다. 본문은 소비자가 '여기서만 경험할 수 있는' 가치를 찾게 만드는 실무적인 브랜딩 설계 기준과 지속 가능한 팬덤 구축 지표를 제시합니다."
 ---

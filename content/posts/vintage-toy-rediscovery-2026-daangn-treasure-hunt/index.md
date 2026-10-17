@@ -4,10 +4,10 @@ date: 2026-08-09T09:00:23+09:00
 draft: false
 slug: "vintage-toy-rediscovery-2026-daangn-treasure-hunt"
 categories:
-  - 키덜트
+  - "키덜트"
 tags:
-  - 빈티지 토이의 재발견: 2026년, 당근마켓에서 보물 찾기
-  - 키덜트
+  - "빈티지 토이의 재발견: 2026년, 당근마켓에서 보물 찾기"
+  - "키덜트"
 image: "images/vintage-toy-rediscovery-2026-daangn-treasure-hunt.png"
 description: "디지털 피로에 지친 3040 세대에게 빈티지 토이 수집은 단순한 추억 회상을 넘어 자신의 취향과 정체성을 투영하는 치유의 과정입니다. 당근마켓을 통해 누구나 쉽게 취미로 즐길 수 있게 되었으나, 정보의 비대칭성이 큰 만큼 가품과 상태를 꼼꼼히 확인하는 신중한 접근이 필"
 ---

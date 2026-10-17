@@ -4,10 +4,10 @@ date: 2026-09-28T09:00:41+09:00
 draft: false
 slug: "kidult-and-music-vinyl-album-art-exhibition"
 categories:
-  - 통합
+  - "통합"
 tags:
-  - 키덜트와 음악의 만남: '바이닐 앨범 아트'를 전시하는 법
-  - 통합
+  - "키덜트와 음악의 만남: '바이닐 앨범 아트'를 전시하는 법"
+  - "통합"
 image: "images/kidult-and-music-vinyl-album-art-exhibition.png"
 description: "바이닐 앨범 아트는 음악을 넘어 개인의 취향을 투영하는 감각적인 인테리어 오브제로 주목받고 있습니다. 공간의 면적과 조도, 음악적 맥락을 고려한 전략적인 배치로 나만의 개성을 담은 세련된 전시 공간을 연출해 보세요."
 ---

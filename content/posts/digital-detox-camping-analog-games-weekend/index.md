@@ -4,10 +4,10 @@ date: 2026-09-14T09:00:34+09:00
 draft: false
 slug: "digital-detox-camping-analog-games-weekend"
 categories:
-  - 통합
+  - "통합"
 tags:
-  - 디지털 디톡스 캠핑: '아날로그 게임'과 함께하는 주말
-  - 통합
+  - "디지털 디톡스 캠핑: '아날로그 게임'과 함께하는 주말"
+  - "통합"
 image: "images/digital-detox-camping-analog-games-weekend.png"
 description: "디지털 기기에 지친 3040 세대에게 '디지털 디톡스 캠핑'은 필수적인 휴식 전략이 되었습니다. 스마트폰 대신 아날로그 보드게임을 활용하면 뇌를 건강하게 자극하며 사람들과 온전한 교감을 나눌 수 있습니다."
 ---

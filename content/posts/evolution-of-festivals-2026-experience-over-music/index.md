@@ -4,10 +4,10 @@ date: 2026-08-23T09:00:25+09:00
 draft: false
 slug: "evolution-of-festivals-2026-experience-over-music"
 categories:
-  - 음악
+  - "음악"
 tags:
-  - 페스티벌의 진화: 2026년, 음악보다 '경험'이 중요한 이유
-  - 음악
+  - "페스티벌의 진화: 2026년, 음악보다 '경험'이 중요한 이유"
+  - "음악"
 image: "images/evolution-of-festivals-2026-experience-over-music.png"
 description: "2026년의 뮤직페스티벌은 단순한 음악 공연을 넘어 브랜드와 공간이 설계한 서사를 소비하는 복합 문화 체험 공간으로 진화했습니다. 따라서 관객은 티켓을 선택할 때 라인업뿐만 아니라, 자신의 취향에 맞는 경험의 밀도와 편의성을 먼저 고려해야 합니다."
 ---

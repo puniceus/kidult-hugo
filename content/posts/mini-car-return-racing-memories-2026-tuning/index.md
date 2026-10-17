@@ -4,10 +4,10 @@ date: 2026-07-22T09:01:20+09:00
 draft: false
 slug: "mini-car-return-racing-memories-2026-tuning"
 categories:
-  - 키덜트
+  - "키덜트"
 tags:
-  - 미니카의 귀환: 추억의 레이싱, 2026년형 튜닝의 세계
-  - 키덜트
+  - "미니카의 귀환: 추억의 레이싱, 2026년형 튜닝의 세계"
+  - "키덜트"
 image: "images/mini-car-return-racing-memories-2026-tuning.png"
 description: "미니카는 단순한 복고풍 장난감을 넘어, 성인들이 공학적 설계와 정밀한 튜닝을 즐기는 정교한 취미로 진화했습니다. 어른들은 직접 기계적 요소를 조정하며 성취감을 느끼고, 복잡한 일상 속에서 자신만의 통제권을 되찾는 즐거움을 경험하고 있습니다."
 ---

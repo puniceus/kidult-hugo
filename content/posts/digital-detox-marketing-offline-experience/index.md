@@ -4,10 +4,10 @@ date: 2026-07-12T09:01:05+09:00
 draft: false
 slug: "digital-detox-marketing-offline-experience"
 categories:
-  - 마케팅
+  - "마케팅"
 tags:
-  - 디지털 디톡스를 역이용한 마케팅: 오프라인 경험의 재발견
-  - 마케팅
+  - "디지털 디톡스를 역이용한 마케팅: 오프라인 경험의 재발견"
+  - "마케팅"
 image: "images/digital-detox-marketing-offline-experience.png"
 description: "디지털 디톡스 마케팅은 정보 과부하 시대에 소비자가 '진짜 감각'을 회복할 수 있는 오프라인 경험을 제공하여 브랜드 팬덤을 구축하는 전략입니다. 단순히 매장을 여는 것을 넘어, 소비자가 스마트폰을 내려놓고 몰입하게 만드는 환경을 설계하는 것이 핵심입니다."
 ---

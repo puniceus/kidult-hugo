@@ -4,10 +4,10 @@ date: 2026-07-08T09:00:54+09:00
 draft: false
 slug: "gundam-model-painting-airbrush-guide-for-beginners"
 categories:
-  - 키덜트
+  - "키덜트"
 tags:
-  - 건담 프라모델 도색의 세계: 초보자가 집에서 시작하는 에어브러시 가이드
-  - 키덜트
+  - "건담 프라모델 도색의 세계: 초보자가 집에서 시작하는 에어브러시 가이드"
+  - "키덜트"
 image: "images/gundam-model-painting-airbrush-guide-for-beginners.png"
 description: "건담 프라모델 도색은 기성품을 넘어 나만의 개성을 창조하는 깊이 있는 취미로, 많은 키덜트에게 새로운 몰입의 즐거움을 선사합니다. 이 글은 고가의 장비 없이도 일상 공간에서 현실적으로 도색을 시작할 수 있는 가이드라인과 실패 없는 장비 선택법을 제시합니다."
 ---

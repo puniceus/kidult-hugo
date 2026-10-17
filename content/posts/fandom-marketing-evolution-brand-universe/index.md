@@ -4,10 +4,10 @@ date: 2026-10-12T09:01:15+09:00
 draft: false
 slug: "fandom-marketing-evolution-brand-universe"
 categories:
-  - 마케팅
+  - "마케팅"
 tags:
-  - 팬덤 마케팅의 진화: 굿즈를 넘어 '브랜드 세계관'에 참여하는 팬들
-  - 마케팅
+  - "팬덤 마케팅의 진화: 굿즈를 넘어 '브랜드 세계관'에 참여하는 팬들"
+  - "마케팅"
 image: "images/fandom-marketing-evolution-brand-universe.png"
 description: "팬덤 마케팅은 단순한 굿즈 판매를 넘어, 팬들이 브랜드 세계관 속에서 직접 역할을 수행하며 서사를 완성하는 참여형 모델로 진화했습니다. 따라서 브랜드는 팬들에게 능동적인 역할을 부여하여 그들이 취향을 증명하고 머물 수 있는 무대를 마련해야 합니다."
 ---

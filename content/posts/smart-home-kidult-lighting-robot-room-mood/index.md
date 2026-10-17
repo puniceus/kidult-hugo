@@ -4,10 +4,10 @@ date: 2026-07-29T09:00:41+09:00
 draft: false
 slug: "smart-home-kidult-lighting-robot-room-mood"
 categories:
-  - 키덜트
+  - "키덜트"
 tags:
-  - 스마트홈과 키덜트의 결합: 조명과 로봇이 바꾸는 방구석 무드
-  - 키덜트
+  - "스마트홈과 키덜트의 결합: 조명과 로봇이 바꾸는 방구석 무드"
+  - "키덜트"
 image: "images/smart-home-kidult-lighting-robot-room-mood.png"
 description: "스마트홈 기술의 대중화로 키덜트들은 피규어 전시를 넘어 공간 전체에 서사를 입히는 몰입형 인테리어를 즐기고 있습니다. 이제는 스마트 조명과 자동화 시스템을 활용해 취향에 맞는 분위기를 쉽게 연출하는 것이 핵심 취향이 되었습니다."
 ---

@@ -4,10 +4,10 @@ date: 2026-06-14T09:00:48+09:00
 draft: false
 slug: "game-ost-concert-2026-ip-expansion"
 categories:
-  - 통합
+  - "통합"
 tags:
-  - 게임 속 음악이 현실로: 2026년 콘솔 게임 OST 콘서트가 보여주는 IP 확장성
-  - 통합
+  - "게임 속 음악이 현실로: 2026년 콘솔 게임 OST 콘서트가 보여주는 IP 확장성"
+  - "통합"
 image: "images/game-ost-concert-2026-ip-expansion.png"
 description: "게임 음악이 단순한 배경음을 넘어 강력한 IP 비즈니스로 성장하며, 오케스트라 콘서트 등 오프라인 경험의 확장을 이끌고 있습니다. 이제는 단순한 연주를 넘어 게임의 서사와 팬들의 추억을 깊이 있게 구현하는 것이 공연 성공의 핵심 요소가 되었습니다."
 ---

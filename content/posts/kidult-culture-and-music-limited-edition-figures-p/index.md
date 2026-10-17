@@ -4,10 +4,10 @@ date: 2026-05-20T09:01:45+09:00
 draft: false
 slug: "kidult-culture-and-music-limited-edition-figures-p"
 categories:
-  - 통합
+  - "통합"
 tags:
-  - 키덜트 문화와 음악의 결합: 한정판 피규어와 함께 듣는 플레이리스트
-  - 통합
+  - "키덜트 문화와 음악의 결합: 한정판 피규어와 함께 듣는 플레이리스트"
+  - "통합"
 image: "images/kidult-culture-and-music-limited-edition-figures-p.png"
 description: "키덜트 문화와 음악을 결합하면 수집한 피규어에 서사와 생명력을 불어넣어 자신만의 몰입형 공간을 창조할 수 있습니다. 피규어의 분위기에 맞춰 음악을 선곡하는 것만으로도 평범한 일상을 예술적인 갤러리 경험으로 확장해 보세요."
 ---

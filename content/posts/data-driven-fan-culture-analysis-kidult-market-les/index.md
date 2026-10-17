@@ -4,10 +4,10 @@ date: 2026-08-24T09:00:30+09:00
 draft: false
 slug: "data-driven-fan-culture-analysis-kidult-market-les"
 categories:
-  - 마케팅
+  - "마케팅"
 tags:
-  - 데이터 기반의 '덕질' 분석: 마케터가 키덜트 시장에서 배울 점
-  - 마케팅
+  - "데이터 기반의 '덕질' 분석: 마케터가 키덜트 시장에서 배울 점"
+  - "마케팅"
 image: "images/data-driven-fan-culture-analysis-kidult-market-les.png"
 description: "키덜트 시장은 소비자가 세계관에 몰입해 스스로 놀이 규칙을 만들고 소속감을 느끼게 함으로써 강력한 팬덤을 형성합니다. 마케터는 이러한 '덕질'의 메커니즘을 분석하여, 고객이 브랜드의 일부가 되도록 유도하는 데이터 기반의 팬덤 전략을 수립해야 합니다."
 ---

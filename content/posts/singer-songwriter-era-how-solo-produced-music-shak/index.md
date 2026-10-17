@@ -4,10 +4,10 @@ date: 2026-07-17T09:00:54+09:00
 draft: false
 slug: "singer-songwriter-era-how-solo-produced-music-shak"
 categories:
-  - 음악
+  - "음악"
 tags:
-  - 싱어송라이터의 시대: 1인 제작 음악이 메이저 시장을 흔드는 법
-  - 음악
+  - "싱어송라이터의 시대: 1인 제작 음악이 메이저 시장을 흔드는 법"
+  - "음악"
 image: "images/singer-songwriter-era-how-solo-produced-music-shak.png"
 description: "홈레코딩 기술의 발전으로 누구나 1인 제작 음악을 통해 메이저 시장의 주류가 될 수 있는 시대가 열렸습니다. 대중은 정제된 기획 상품보다 창작자의 진솔한 서사에 반응하며, 이로 인해 음악 시장은 더욱 다채롭고 파격적으로 변화하고 있습니다."
 ---

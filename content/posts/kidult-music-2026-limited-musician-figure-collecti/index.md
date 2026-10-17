@@ -4,10 +4,10 @@ date: 2026-06-21T09:00:58+09:00
 draft: false
 slug: "kidult-music-2026-limited-musician-figure-collecti"
 categories:
-  - 통합
+  - "통합"
 tags:
-  - 키덜트와 음악의 만남: 2026년형 한정판 뮤지션 피규어 컬렉션
-  - 통합
+  - "키덜트와 음악의 만남: 2026년형 한정판 뮤지션 피규어 컬렉션"
+  - "통합"
 image: "images/kidult-music-2026-limited-musician-figure-collecti.png"
 description: "음악과 키덜트 문화가 결합하여 아티스트의 정체성을 담은 아트 토이 형태의 소장품 시장이 확대되고 있습니다. 다만 고가의 프리미엄 굿즈인 만큼, 구매 전 수집의 실용성과 공간 활용 등을 고려한 신중한 판단이 필요합니다."
 ---

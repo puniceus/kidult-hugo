@@ -4,10 +4,10 @@ date: 2026-06-24T09:00:57+09:00
 draft: false
 slug: "future-of-playlist-curation-human-touch-beyond-202"
 categories:
-  - 음악
+  - "음악"
 tags:
-  - 플레이리스트 큐레이션의 미래: 2026년형 알고리즘을 뛰어넘는 인간의 감각
-  - 음악
+  - "플레이리스트 큐레이션의 미래: 2026년형 알고리즘을 뛰어넘는 인간의 감각"
+  - "음악"
 image: "images/future-of-playlist-curation-human-touch-beyond-202.png"
 description: "알고리즘은 과거 데이터에 기반해 음악을 추천하므로, 인간의 미묘한 감정과 맥락을 완벽히 읽어내기엔 한계가 있습니다. 따라서 기계적인 추천에서 벗어나 시간과 공간의 온도를 담아내는 나만의 감각으로 음악을 소비하는 주도적인 태도가 필요합니다."
 ---

@@ -4,10 +4,10 @@ date: 2026-06-07T09:00:32+09:00
 draft: false
 slug: "kidult-goods-at-music-festivals-2026-marketing-str"
 categories:
-  - 통합
+  - "통합"
 tags:
-  - 음악 페스티벌에서 만나는 키덜트 굿즈: 2026년 축제 현장의 마케팅 공식
-  - 통합
+  - "음악 페스티벌에서 만나는 키덜트 굿즈: 2026년 축제 현장의 마케팅 공식"
+  - "통합"
 image: "images/kidult-goods-at-music-festivals-2026-marketing-str.png"
 description: "2026년 음악 페스티벌은 단순한 공연장을 넘어 키덜트 문화와 소비가 결합하는 라이프스타일 현장이 되었습니다. 소비자들은 페스티벌 굿즈를 추억의 매개체이자 취향을 증명하는 수집품으로 인식하며, 브랜드는 이러한 키덜트적 욕구를 자극하여 성공적인 마케팅 전략을 펼치고 있습"
 ---

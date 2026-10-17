@@ -4,10 +4,10 @@ date: 2026-07-26T09:01:07+09:00
 draft: false
 slug: "personal-branding-monetizing-taste-for-solopreneur"
 categories:
-  - 마케팅
+  - "마케팅"
 tags:
-  - 퍼스널 브랜딩: 1인 마케터가 자신의 취향을 수익화하는 법
-  - 마케팅
+  - "퍼스널 브랜딩: 1인 마케터가 자신의 취향을 수익화하는 법"
+  - "마케팅"
 image: "images/personal-branding-monetizing-taste-for-solopreneur.png"
 description: "퍼스널 브랜딩은 단순히 자신을 알리는 것을 넘어, 자신의 취향을 타인의 결핍을 채워주는 비즈니스 모델로 설계하는 과정입니다. 1인 마케터는 자신의 취향을 콘텐츠 자산으로 데이터화하여, 시장이 요구하는 가치를 제안함으로써 수익을 창출할 수 있습니다."
 ---

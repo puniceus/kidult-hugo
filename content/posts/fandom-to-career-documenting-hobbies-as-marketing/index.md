@@ -4,10 +4,10 @@ date: 2026-08-07T09:00:29+09:00
 draft: false
 slug: "fandom-to-career-documenting-hobbies-as-marketing"
 categories:
-  - 통합
+  - "통합"
 tags:
-  - 덕질이 커리어가 되는 시대: 취미를 마케팅적 관점으로 기록하는 법
-  - 통합
+  - "덕질이 커리어가 되는 시대: 취미를 마케팅적 관점으로 기록하는 법"
+  - "통합"
 image: "images/fandom-to-career-documenting-hobbies-as-marketing.png"
 description: "취미를 단순한 소비 기록이 아닌 마케팅적 관점으로 구조화하면 강력한 퍼스널 브랜딩 자산이 됩니다. 자신의 취향과 경험을 분석적인 데이터로 치환하여 타인에게 가치를 전달할 때, 덕질은 지속 가능한 커리어 포트폴리오가 될 수 있습니다."
 ---
